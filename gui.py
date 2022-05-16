@@ -128,7 +128,7 @@ def save_file():
 
 root = Tk()
 root.minsize(250, 150)
-
+print('nic')
 button_wide = 13
 entry_width = 15
 label_width = 100
